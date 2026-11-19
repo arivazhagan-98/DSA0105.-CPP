@@ -1,9 +1,9 @@
 TASK 01 – CONSTRUCTORS AND CONSTRUCTOR OVERLOADING
 
-Name: Lavanya K.
-Register Number: 192565025
+Name:S.sachin
+Register Number: 192525045
 Language: C++
-Compiler: G++ 15.2.0
+
 
 MAIN PROGRAM:
 q1_book.cpp
