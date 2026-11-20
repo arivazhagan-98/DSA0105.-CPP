@@ -1,6 +1,6 @@
 # TASK 03 – DYNAMIC CONSTRUCTORS AND DESTRUCTORS
 
-**Name:** S.SACHIN.  
+**Name:** S.SACHIN  
 **Register Number:** 192525045  
 **Language:** C++  
 **Compiler:** G++  

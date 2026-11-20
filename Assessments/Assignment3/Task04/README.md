@@ -1,6 +1,6 @@
 # TASK 04 – ARITHMETIC AND STREAM OPERATOR OVERLOADING
 
-**Name:** S.SACHIN.  
+**Name:** S.SACHIN  
 **Register Number:** 192525045  
 **Language:** C++
 

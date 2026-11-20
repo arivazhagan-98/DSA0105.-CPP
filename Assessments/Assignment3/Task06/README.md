@@ -1,7 +1,7 @@
 # TASK 06 – RULES OF OPERATOR OVERLOADING
 
-**Name:** Lavanya K.  
-**Register Number:** 192565025  
+**Name:** S.SACHIN  
+**Register Number:** 192525045  
 **Language:** C++
 
 ## Concepts

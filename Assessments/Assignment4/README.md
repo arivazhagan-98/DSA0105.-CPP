@@ -1,8 +1,8 @@
 # C++ ASSIGNMENT 4 - CO4
 ## Designing Reusable Class Hierarchies
 
-Name: Lavanya K.
-Register Number: 192565025
+Name: S.SACHIN
+Register Number: 192525045
 Language: C++
 Compiler: g++ 15.2.0
 Standard: C++17
