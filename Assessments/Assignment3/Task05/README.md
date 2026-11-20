@@ -1,7 +1,7 @@
 # TASK 05 – INCREMENT, COMPARISON AND SUBSCRIPT OPERATORS
 
-**Name:** Lavanya K.  
-**Register Number:** 192565025  
+**Name:** S.SACHIN  
+**Register Number:** 192525045 
 **Language:** C++
 
 ## Concepts
